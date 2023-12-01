@@ -1,0 +1,21 @@
+{
+  "name": "cloudwebsitecompany",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "htmlnano": "^2.1.0",
+    "parcel": "^2.10.3",
+    "postcss": "^8.4.31",
+    "posthtml": "^0.16.6"
+  }
+}
