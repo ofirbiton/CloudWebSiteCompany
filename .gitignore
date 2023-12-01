@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 node_modules
 .cache/
 dist/
+=======
+node_modules/
+dist/
+.cache/
+>>>>>>> baa5835ccc24efe8aa323b28ff9b1ff322a063b1
